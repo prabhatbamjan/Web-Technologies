@@ -1,0 +1,3 @@
+
+"Alt" and "Title" attributes are helpful  add  descriptions of  image in text for  better Search Engine Optimization and accessibility.
+they are also used as referred to as ‘alt tag’ or ‘alt text’, and ‘title tag’ in html.
