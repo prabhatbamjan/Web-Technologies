@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Prosto+One&family=Roboto:ital,wght@1,100&family=Rubik+Gemstones&family=Sevillana&display=swap');
+h1{
+    font-family: 'Lobster', cursive;
+font-family: 'Prosto One', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Rubik Gemstones', cursive;
+font-family: 'Sevillana', cursive;
+letter-spacing: 30px;
+font-size: 60px;
+background-color:aliceblue;
+text-shadow: 2px 2px 0.5px blue;
+text-align: center;
+
+
+}
+.container{
+    display: flex;
+    /* flex-direction: column;
+} */
+justify-content:space-around;
+margin: 20px;
+padding: 30px;
+flex-wrap: wrap;
+}
+
+.box1{
+    width:250px ;
+    height: 250px;
+    background-color: blueviolet;
+    /* flex-grow: 1; */
+    ;
+}
+.box2 { width:250px ;
+    height: 250px;
+    background-color: darkblue;
+
+}
+
+.box3 {
+    width:250px ;
+    height: 250px;
+    background-color: pink;
+
+}
+.box4 {
+    width:250px ;
+    height: 250px;
+    background-color:red;
+}
+.box5{
+    width:250px ;
+    height: 250px;
+    background-color: blueviolet;
+    /* flex-grow: 1; */
+    ;
+}
+.box6 { width:250px ;
+    height: 250px;
+    background-color: darkblue;
+
+}
+
+.box7 {
+    width:250px ;
+    height: 250px;
+    background-color: pink;
+
+}
+.box8 {
+    width:250px ;
+    height: 250px;
+    background-color:red;
+}
