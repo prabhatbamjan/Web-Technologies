@@ -1,0 +1,34 @@
+body{
+    background-image: url("100.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+.navbar{
+    background-color: black;
+    
+}
+nav ul {
+    overflow: auto;
+ 
+ }
+.navbar li{
+    float: left;
+   list-style: none;
+   margin: 10px 10px;
+
+}
+.navbar li a{
+    padding: 10px 10px;
+    text-decoration: none;
+    color: white;
+}
+p{
+    color: black;
+    text-align: center;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    font-size: 50px;
+
+}

@@ -1,0 +1,44 @@
+body{
+    background-image: url("100.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+nav ul {
+    overflow: auto;
+ 
+ }
+.navbar li{
+    float: left;
+   list-style: none;
+   margin: 10px 10px;
+
+}
+.navbar li a{
+    padding: 10px 10px;
+    text-decoration: none;
+    color: white;
+}
+.table_box{
+    margin: 50px auto;
+}
+.table_row{
+    display: table;
+    width: 80%;
+    margin: 10px auto;
+    padding: 10px;
+    color: black;
+    font-size: 20px;
+    box-shadow: 0 1px 4px black;
+}
+.table_cell{
+    display: table-cell;
+    width: 40%;
+    text-align: center;
+    padding: 4px 0px;
+    border-right: 1px solid;
+    vertical-align: middle;
+}
+.table_head{
+    background-color: aqua;
+}
